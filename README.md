@@ -1,6 +1,6 @@
-# [Single-cell transcriptomic profiling of human pancreatic islets reveals genes responsive to glucose exposure over 24 hours](https://www.biorxiv.org/content/10.1101/2023.06.06.543931.abstract)
+# Single-cell transcriptomic profiling of human pancreatic islets reveals genes responsive to glucose exposure over 24 hours
 
-Code used in [Single-cell transcriptomic profiling of human pancreatic islets reveals genes responsive to glucose exposure over 24 hours](https://www.biorxiv.org/content/10.1101/2023.06.06.543931.abstract). 
+Code used in [Single-cell transcriptomic profiling of human pancreatic islets reveals genes responsive to glucose exposure over 24 hours](https://link.springer.com/article/10.1007/s00125-024-06214-4). 
 
 ## Preprocessing and quality control procedures
 

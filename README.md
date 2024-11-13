@@ -5,7 +5,7 @@ Code used in [Single-cell transcriptomic profiling of human pancreatic islets re
 ## Preprocessing and quality control procedures
 
 1. [CellRanger v3.1.0](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger#workflows)
-2. [Decontex workflow](https://github.com/CollinsLabBioComp/snakemake-decontx/tree/2d59ca7960c4712091db1dae6440ef54ec3d05c6)
+2. [Decontex workflow](https://github.com/CollinsLabBioComp/snakemake-decontx_islet_glucose_timecourse/tree/2d59ca7960c4712091db1dae6440ef54ec3d05c6)
 3. [Quality control procedures and cell type labelling workflow](https://github.com/wtsi-hgi/nf_scrna_qc/tree/main)
 
 ## Analysis
